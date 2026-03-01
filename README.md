@@ -1,4 +1,4 @@
-# Lab 02 — Ping & Traceroute Network Path Analysis
+# SOC Lab 02 — Network Path Analysis
 
 ## Objective
 Use common network diagnostic tools to:
