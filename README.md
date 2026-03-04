@@ -135,7 +135,6 @@ No cleanup needed.
 ---
 
 ## Next Steps
-
 To continue building network investigation skills:
 
 - **SOC Lab 03 — DNS Resolution & Caching**
